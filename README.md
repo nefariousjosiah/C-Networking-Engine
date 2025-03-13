@@ -6,4 +6,10 @@
 ```
 git@github.com:nefariousjosiah/CPP-Networking-Engine.git
 ```
-dd
+2. Then you would cd into the directory OR go into file explorer.
+   ```
+   cd CPP-Networking-Engine
+   ```
+3. Open the "marry.sln"
+
+4. Run the Release x64
