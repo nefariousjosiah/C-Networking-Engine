@@ -4,7 +4,7 @@
 
 ### 1. First you would need to clone the repo
 ```
-git@github.com:nefariousjosiah/CPP-Networking-Engine.git
+git clone git@github.com:nefariousjosiah/CPP-Networking-Engine.git
 ```
 2. Then you would cd into the directory OR go into file explorer.
    ```
